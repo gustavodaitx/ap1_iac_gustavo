@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Textos para AP1 IAC
+=======
+TEXTO PARA AP1
+>>>>>>> Feature_1
 
 
 
@@ -8,10 +12,20 @@ Textos para AP1 IAC
 
 
 
+Fase 14 da AP 1 fase 01
 
+Fase 14 da AP1 fase 02
 
-
-
+<<<<<<< HEAD
 Texto 01 para AP1 de IAC
 
 Texto 02 para AP! de IAC
+=======
+Alteração 01 Solicitada AP1
+
+Alteração 02 Solicitada AP1
+
+
+
+
+>>>>>>> Feature_1
