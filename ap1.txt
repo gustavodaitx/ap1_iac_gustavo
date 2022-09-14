@@ -20,6 +20,7 @@ Fase 14 da AP1 fase 02
 Texto 01 para AP1 de IAC
 
 Texto 02 para AP! de IAC
+<<<<<<< HEAD
 =======
 Alteração 01 Solicitada AP1
 
@@ -29,3 +30,9 @@ Alteração 02 Solicitada AP1
 
 
 >>>>>>> Feature_1
+=======
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+Incidunt voluptatibus amet quia, necessitatibus, obcaecati harum ea cupiditate atque officiis autem, tempore suscipit fuga. 
+Qui voluptatibus repellendus quos cumque laborum vel.  
+>>>>>>> features_2
